@@ -5,5 +5,6 @@ public class Demo {
 		System.out.println("Enter your name");
 		String name=sc.nextLine();
 		System.out.println(name);
+		System.out.println("Your name is successfully print");
 	}
 }
